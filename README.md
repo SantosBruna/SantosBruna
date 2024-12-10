@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi!%20Im%20Bruna%20Santos!&section=header&fontAlign=50&animation=fadeIn&fontAlignY=35&fontSize=45"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=#EC6A5D&text=Hi!%20Im%20Bruna%20Santos!&section=header&fontAlign=50&animation=fadeIn&fontAlignY=35&fontSize=45"/>
 
 <p align="center">
 👋 Olá! Eu sou Bruna, Desenvolvedora FullStack e Estudante de Ciência de Dados.
@@ -30,5 +30,5 @@
   </a> 
 </p>
 
-<img width=100% src='https://capsule-render.vercel.app/api?type=waving&height=200&color=gradiente&section=footer'/>
+<img width=100% src='https://capsule-render.vercel.app/api?type=waving&height=200&color=#EC6A5D&section=footer'/>
 
