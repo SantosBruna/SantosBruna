@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=#EC6A5D&text=Hi!%20Im%20Bruna%20Santos!&section=header&fontAlign=50&animation=fadeIn&fontAlignY=35&fontSize=45"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi!%20Im%20Bruna%20Santos!&section=header&fontAlign=50&animation=fadeIn&fontAlignY=35&fontSize=45"/> 
 
 <p align="center">
 👋 Olá! Eu sou Bruna, Desenvolvedora FullStack e Estudante de Ciência de Dados.
@@ -11,7 +11,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeuUsuario&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">Minhas Habilidades são:</p> 
+<h3 align="center">Minhas Habilidades são:</h3> 
 <p align="center"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
@@ -30,5 +30,5 @@
   </a> 
 </p>
 
-<img width=100% src='https://capsule-render.vercel.app/api?type=waving&height=200&color=#EC6A5D&section=footer'/>
+<img width=100% src='https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer'/>
 
