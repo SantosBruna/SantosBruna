@@ -4,15 +4,13 @@
 
 <!-- GitHub Estatísticas -->
 <h3 align="center">📊 GitHub Stats</h3>
- 
+
 <p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantosBruna&theme=radical" />
+  <img src="https://github-profile-metrics.vercel.app/api?username=SantosBruna&theme=dark" alt="GitHub Metrics" />
 </p>
+
 <p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantosBruna&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SantosBruna&theme=radical&locale=pt_BR" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantosBruna&theme=radical" />
 </p>
 
 <h3 align="center">Minhas Habilidades são:</h3> 
