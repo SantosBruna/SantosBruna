@@ -1,12 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=%20Bruna%20Santos&section=header&fontAlign=50&animation=fadeIn&fontAlignY=35&fontSize=45"/> 
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=👋+Olá!,+Meu+Nome+é+Bruna+Santos;Sou+Cientista+de+Dados+em;transição+de+Carreira;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <!-- GitHub Estatísticas -->
 <h3 align="center">📊 GitHub Stats</h3>
+ 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SantosBruna&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantosBruna&theme=radical" />
+</p>
+<p align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantosBruna&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SantosBruna&theme=radical&locale=pt_BR" alt="GitHub Streak" />
