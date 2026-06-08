@@ -6,7 +6,10 @@
 <!-- GitHub Estatísticas -->
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santosbruna&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SantosBruna&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SantosBruna&theme=radical&locale=pt_BR" alt="GitHub Streak" />
 </p>
 
 <h3 align="center">Minhas Habilidades são:</h3> 
