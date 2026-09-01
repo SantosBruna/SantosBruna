@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=%20Bruna%20Santos&section=header&fontAlign=50&animation=fadeIn&fontAlignY=35&fontSize=45"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=👋+Olá!,+Meu+Nome+é+Bruna+Santos;Sou+Cientista+de+Dados+em;transição+de+Carreira;Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=👋+Olá!,+Meu+Nome+é+Bruna+Santos;Sou+Engenheira+eCientista+de+Dados+em;transição+de+Carreira;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <!-- GitHub Estatísticas -->
 <h3 align="center">📊 GitHub Stats</h3>
